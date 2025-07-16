@@ -92,8 +92,7 @@
 <h2 align="center">🤝 Connect With Me</h2>
 
 <p align="center">
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
-  <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-black?logo=twitter&style=for-the-badge" /></a>
+  <a href="https://www.linkedin.com/in/phuyalrn2"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge" /></a>
   <a href="https://aryanhimself.com"><img src="https://img.shields.io/badge/Website-aryanhimself.com-green?style=for-the-badge" /></a>
 </p>
 
