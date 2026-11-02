@@ -12,7 +12,7 @@
   <em>I build scalable systems, design data-driven applications, and develop AI tools that make sense.</em>
 </p>
 
-- 🏢 Founder of **Techflow** – an outsourcing company delivering smart SaaS solutions.
+- 🏢 Founder of **Sammen Tech** – an outsourcing company delivering smart SaaS solutions.
 - 🛠️ Experienced in **building full-stack platforms** using TypeScript, Python, FastAPI, Next.js & Firebase.
 - 🌍 Contributor to open source, notably `AcademyKit` – an education platform made for schools & startups.
 - 🌱 Currently deep-diving into **LLMs, Vector Search (Weaviate, Pinecone)**, and **MLOps**.
